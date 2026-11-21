@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+type: software
+title: "Part 11 Cloud-Native Audit Trail Framework"
+authors:
+  - family-names: Ramamoorthy
+    given-names: Selvamurugan
+    alias: Selva
+    orcid: "https://orcid.org/0009-0006-7111-535X"
+version: 1.0.0
+date-released: 2026-11-21
+# After Zenodo mints the DOI for this release, uncomment and fill in:
+# doi: 10.5281/zenodo.XXXXXXX
+url: "https://github.com/YOUR_USERNAME/part11-audit-framework"
+repository-code: "https://github.com/YOUR_USERNAME/part11-audit-framework"
+license: MIT
+keywords:
+  - 21 CFR Part 11
+  - audit trail
+  - electronic records
+  - electronic signatures
+  - cloud architecture
+  - cloud-native
+  - regulated research
+  - data integrity
+  - ALCOA+
+  - GxP
+abstract: >-
+  A practical, vendor-neutral reference architecture and implementation
+  for building inspection-ready 21 CFR Part 11 audit trails in regulated
+  research platforms using cloud-native services.
